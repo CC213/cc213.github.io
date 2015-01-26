@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You're up and running!
-categories: [C0, C8]
+title: 你好，世界8！
+categories: [C0, 标签8]
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
