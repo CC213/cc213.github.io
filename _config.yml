@@ -46,8 +46,8 @@ url: http://cc213.github.io/
 baseurl: ""
 
 # pagination
-paginate: 4
-paginate_path: "cc213.github.io/page:num/"
+paginate: 3
+paginate_path: "articles/page:num/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
