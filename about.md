@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[TOC]
+toc
 
 ## 工作经历
 
