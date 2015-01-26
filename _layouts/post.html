@@ -22,7 +22,8 @@ layout: default
   {% include disqus.html disqus_identifier=page.disqus_identifier %}
 </article>
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.js">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.js"></script>
+<script>
 $( document ).ready(function() {
     $(".post").find("h2,h3,h4,h5,h6").each(function(i,item){
     var tag = $(item).get(0).localName;
