@@ -49,9 +49,6 @@ baseurl: ""
 paginate: 3
 paginate_path: "articles/page:num/"
 
-# for content
-markdown: kramdown
-
 #
 # !! You don't need to change any of the configuration flags below !!
 #

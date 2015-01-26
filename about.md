@@ -4,9 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-* 目录
-{:toc}
-
 ## 工作经历
 
 - 网易
