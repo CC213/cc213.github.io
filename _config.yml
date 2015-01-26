@@ -54,8 +54,6 @@ paginate_path: "articles/page:num/"
 #
 
 markdown: redcarpet
-redcarpet:
-    extensions: [with_toc_data]
 highlighter: pygments
 permalink: /:title/
 
