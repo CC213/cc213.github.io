@@ -4,12 +4,34 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+[TOC]
 
-### More Information
+## 工作经历
 
-A place to include any other types of information that you'd like to include about yourself. 
+- 网易
+	- 2013.04 至今
+	- 杭研后台技术中心（大数据技术组），全职
+- 微软亚太研发集体（北京）
+	- 2012.06-2012.08
+	- 微软亚洲互联网工程院，实习
 
-### Contact me
+## 学习经历
+
+- 华中科技大学
+	- 2010.09-2013.03，研究生
+	- 计算机软件与理论
+- 武汉理工大学
+	- 2006.09-2010.06，本科
+	- 计算机科学与技术
+
+## 兴趣爱好
+
+- 编程
+- 篮球
+- 电影
+- 旅游
+- 烧菜
+
+## Contact me
 
 [phoenix.w.2010@gmail.com](mailto:phoenix.w.2010@gmail.com)
