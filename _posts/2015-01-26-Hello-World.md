@@ -4,6 +4,12 @@ title: 标题
 categories: 标签
 ---
 
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#toc').toc();
+});
+</script>
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
