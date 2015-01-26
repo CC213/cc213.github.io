@@ -46,7 +46,7 @@ url: http://cc213.github.io/
 baseurl: ""
 
 # pagination
-paginate: 3
+paginate: 10
 paginate_path: "articles/page:num/"
 
 #

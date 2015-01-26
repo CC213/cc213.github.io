@@ -28,7 +28,7 @@ permalink: /about/
 - 篮球
 - 电影
 - 旅游
-- 烧菜
+- 下厨
 
 ## Contact me
 
