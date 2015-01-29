@@ -35,3 +35,5 @@ permalink: /about/
 [phoenix.w.2010@gmail.com](mailto:phoenix.w.2010@gmail.com)
 
 ## 给我留言
+
+{% include comments.md %}
